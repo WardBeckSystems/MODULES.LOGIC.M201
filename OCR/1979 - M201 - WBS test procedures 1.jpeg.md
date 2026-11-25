@@ -26,7 +26,7 @@ Relay Module
 
 ```json
 {
- "file": "Modules/LOGIC/M201/PHOTOS/1979 - M201 - WBS test procedures 1.jpeg",
+ "file": "Modules/LOGIC/M201/MANUALS/1979 - M201 - WBS test procedures 1.jpeg",
  "sha256": "4a8bdb890401eeab65f721b1a7279854ab985c6870c0c905468a481f0148ae61",
  "kind": "module",
  "models": [

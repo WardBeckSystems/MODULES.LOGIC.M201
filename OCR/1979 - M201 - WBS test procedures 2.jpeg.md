@@ -45,7 +45,7 @@ of 2
 
 ```json
 {
- "file": "Modules/LOGIC/M201/PHOTOS/1979 - M201 - WBS test procedures 2.jpeg",
+ "file": "Modules/LOGIC/M201/MANUALS/1979 - M201 - WBS test procedures 2.jpeg",
  "sha256": "6377da5421e64f57aed3b38f785000d6b803a9426937bcbbb282d725baff7bb7",
  "kind": "module",
  "models": [

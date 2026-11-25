@@ -103,7 +103,7 @@ ISSUE APRIL/83
 
 ```json
 {
- "file": "Modules/LOGIC/M201/PHOTOS/1979 - M201 - WBS test procedures.jpeg",
+ "file": "Modules/LOGIC/M201/MANUALS/1979 - M201 - WBS test procedures.jpeg",
  "sha256": "36cefd57b80564846f9604869ac68ed963a4dce028eae82a09282cab33299b5e",
  "kind": "module",
  "models": [
