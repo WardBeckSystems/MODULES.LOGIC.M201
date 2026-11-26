@@ -18,6 +18,19 @@ Manual page with IC data for the 74C221 dual monostable multivibrator.
 - **Size:** 418,248 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 0–305 mm across, 5–432 mm up
+- **Outlines:** line 258 rings, 4,173 straight (8,397 mm) / 504 curved (840 mm); text 838 rings, 6,406 straight (7,140 mm) / 1,856 curved (2,887 mm)
+- **Centre lines:** 5,274 paths (121 closed); straight 9,031 mm, curved 132 mm; horizontal 2,786 mm, vertical 3,039 mm, diagonal 3,206 mm
+- **Circles and arcs:** 6 circles, 23 arcs; largest r 2.0 @ (131.5, 248.3), r 2.0 @ (165.0, 172.0), r 1.6 @ (167.8, 141.2), r 1.6 @ (165.2, 171.9)
+- **Closed boxes:** 11; named: InPUts OUTPUts CLEAR; InPUts; OUTPUts; CLEAR
+- **Words (OCR):** 106 in 63 lines: WAAD-BECK SYSTEMS LTD · INTEGRATED CIRCUIT DATA · 74c221 · DUAL · MONOSTABLE MULTIVIBRATOR · The 74c221 dua 1 monostab ]e · multivibrator is cmos integrated · circuit. Each multivibrator features negative-transition- · triggered · input and positive-transition-triggered input either · 0 f which can 
+- **Wiring (first pass):** 36 connected wire groups from 223 runs; labelled ends: 599 mm → TOP VIEW, OUTPUts; 288 mm → REXT -, 16, 2RIcExT, 2C EXT; 143 mm → REXT -, 16, Vcc, 15; 128 mm → 1Q, 13, 12, 1CEXT; 109 mm → DUAL, MULTIVIBRATOR
+
+Every curve, box, word and wire group: [19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator (traced).json](../SCHEMATICS/19xx%20-%20M201%20-%20Integrated%20Circuit%20Data%2074C221%20Dual%20Monostable%20Multivibrator%20%28traced%29.json) (the CAD file: `19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 7 words corrected)

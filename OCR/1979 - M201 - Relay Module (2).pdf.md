@@ -22,7 +22,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Closed boxes:** 4; named: \NBS; \NBS; \NBS; \NBS
 - **Words (OCR):** 20 in 17 lines: \NBS · oue. \NBS · no '0ol · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · H201 · RELAY MODULE · \NBS
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p1 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p1 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p1 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 12 in 10 lines: WARD- · CK SYSTEM · LTD · (\NBS) · M201 · RELAY MODULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p2 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p2 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p2 (trace
 - **Words (OCR):** 62 in 25 lines: WA~C ~BECK · SYSTEMS LTC · TABLE OF CON TEN TS · 201 RELAY MODULE · SECTION · Warranty · Circuit Descri pti on · 1-1 · if ing Dh gra.a · 2-1 · Integ rated Ci rc ui Dlta · 74C221
 - **Title block:** (31, 46)–(270, 423) mm: WA~C ~BECK · SYSTEMS LTC · TABLE OF CON TEN TS · 201 RELAY MODULE · SECTION · Warranty · Circuit Descri pti on · 1-1 · if ing Dh gra.a · 2-1 · Integ rated Ci rc ui Dlta · 74C221 · Part lis · Dra win9S
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p3 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p3 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p3 (trace
 - **Words (OCR):** 339 in 111 lines: WARD -BECK SYSTEMS LT · IIA · NT · All lIard-Be ct · Syst · Lt · ro duc ts · war nt · ga 1n · ort ~an sh · de f'e · ve materials iIIn
 - **Title block:** (6, 106)–(179, 419) mm: WARD -BECK SYSTEMS LT · IIA · NT · All lIard-Be ct · Syst · Lt · ro duc ts · ort ~an sh · de f'e · ve materials iIIn · year from date of · 1pme nt · Ward -Bect Systems 111 · epai · wit hou · ha rge. a
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p4 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p4 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p4 (trace
 - **Outlines:** line 25 rings, 715 straight (2,954 mm) / 97 curved (152 mm); text 1,483 rings, 11,068 straight (12,142 mm) / 3,173 curved (4,787 mm)
 - **Words (OCR):** 292 in 82 lines: WAR · CK YS · MS LTD · CIRC UIT DESCRIP TIO · H20 RELAY MODULE · Th H20I Re ay Hodul 1s des ig ned · be use as an audio · wi tc he · It co mprises two de nt ca relay swi tc h1ng · rc uits, eac capa bl of w1tc hlng eit her one of wo · al · anc ed inpu ts
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p5 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p5 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p5 (trace
 - **Closed boxes:** 2
 - **Words (OCR):** 38 in 24 lines: WARD-BECK SYSTEM LTD · TI MING DIAGRAM · H20 · RELAY MODULE · tII · ::-VSWIKM · Switc · Inp ut · ur pin 10 · U4 pi 11 · U2. · U4 pin
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p6 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p6 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p6 (trace
 - **Dots (junctions):** 2
 - **Words (OCR):** 143 in 57 lines: !=IO BEC · STE · LTO · IN TEGRAT ED CIR CUI DATA · Clll · DUAL HONOSTA8LE HUlTI VI 8RATOR · The 74C2 21 · dua · ~onost~ble multivibr~t or Is CMOS 1ntegra ed · rcuit. Each mult1v1b ra tor fe ature · negat1ve-tran itio · 1gge red nput nd
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p7 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p7 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -95,7 +95,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p7 (trace
 - **Closed boxes:** 2; named: ·BECK
 - **Words (OCR):** 125 in 76 lines: WAFlO ·BECK BYSTEMS LTO · PARTS LI ST · HZOI R£LAY MOOULE · PART · SCRI PTIO If · MF< · MFS PAR NUMBER · C1 · Capa · uF IJS · et · T3 0AI 04MOl SAS
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p8 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p8 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p8 (trace
 - **Words (OCR):** 75 in 62 lines: WARD -BECK SYSTEMS LTD · PARTS LIST · M2 01 RELA MOOULE · PART · OESCRIPTIO · MFG · MFG PAR NU MBER · R6 · Resf stor · Philips · R7 · R8
 - **Title block:** (6, 396)–(114, 419) mm: WARD -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p9 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p9 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -114,7 +114,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p9 (trace
 - **Outlines:** line 176 rings, 2,372 straight (5,045 mm) / 449 curved (672 mm); text 334 rings, 2,605 straight (2,874 mm) / 662 curved (1,015 mm)
 - **Words (OCR):** 86 in 31 lines: WARO·SECK SYSTEM LT · PARTS LI ST · 01 REl AY ODULE · PART · DESCRI PTI ON · FG PART HU MBER · Ul · Inte!ill"illted C1rtu it · Ha ion al · CI4" · 74 C22 · U3
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p10 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p10 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p10 (trac
 - **Words (OCR):** 229 in 164 lines: M2.0 · Q."'T 1O · LEGoE.NO · ve...... · Itl R2. · R:SIRGo · R20/ Rt · 02> R1A/ R15 · UOIO SWllC.l-l · ~~oQ.T · PE · 104
 - **Title block:** (355, 8)–(432, 37) mm: DDE · 1/11 · M20l · A.DOEO · IS.... · OATE · REVISION · API'. · (\NBS] WARD-BECK SYSTEMS · tp · ht · ORN..."W · 1m · 20 · ENG. MItW · CI<O · "RJ.l- · RelAY MODULE · AP!' · 5CHEMA TIC
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p11 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p11 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p11 (trac
 - **Words (OCR):** 36 in 18 lines: AtO ll ,6.10 · 1(2 · V2~o!lO- ...to'l. AIO" · ca · ps · BS REVOSlON · ISSUE loAn · VVE3S] WARD~BECK SYSTEMS · ORN · lil · tp · ENG Ma ht REL AY
 - **Title block:** (225, 7)–(338, 58) mm: BS REVOSlON · ISSUE loAn · VVE3S] WARD~BECK SYSTEMS · ORN · lil · tp · ENG Ma ht REL AY · 20 · MOD ULE · CKD · CO PO NENT LAYO UT · ISSU<
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p12 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p12 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -149,7 +149,7 @@ Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p12 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 76 in 55 lines: III · wo · III · Dl · ou · ec · Z4 · Dl · DC ll · OUT · DC CTl · 1M
 
-Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p13 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1979 - M201 - Relay Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - Relay Module (2) p13 (traced).json](../MANUALS/1979%20-%20M201%20-%20Relay%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1979 - M201 - Relay Module (2) p13 (traced).dxf`).
 
 ## Full text
 

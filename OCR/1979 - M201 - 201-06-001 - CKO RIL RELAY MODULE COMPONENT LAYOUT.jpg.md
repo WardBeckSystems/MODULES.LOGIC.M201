@@ -20,7 +20,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Closed boxes:** 21
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20CKO%20RIL%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20CKO%20RIL%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

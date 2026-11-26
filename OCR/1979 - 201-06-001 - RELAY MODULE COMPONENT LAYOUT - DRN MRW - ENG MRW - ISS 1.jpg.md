@@ -33,7 +33,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Words (OCR):** 46 in 42 lines: 4ad · WBS · 0.228 · CAHADA · 891 | · 9-101 · Aozi-A104 · 886 & · 02 · 04 · V23obo · 740221
 - **Title block:** (107, 0)–(338, 293) mm: WBS · CAHADA · 9-101 · Aozi-A104 · 04 · V23obo · 74coo · 02 · U5 · K2 · 74Coo · V2soso-A2ozi-Aio4 · 88 · U6 · -12 · IssUE |DATE · REVISION · WBS WARD-BeCk BYBTEMS · Drn Mrw 2/79 · ENG Mrw · M201 · REL
 
-Every curve, box, word and wire group: [1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1979%20-%20201-06-001%20-%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1979%20-%20201-06-001%20-%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

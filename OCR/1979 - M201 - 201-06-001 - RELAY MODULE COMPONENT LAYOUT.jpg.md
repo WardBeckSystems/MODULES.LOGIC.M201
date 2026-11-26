@@ -21,7 +21,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Words (OCR):** 47 in 42 lines: Aad · WBS · 8.828 · CAHADA · 89 · 9-101 · 34 · 404 4 · 02 · 04 · V23obo Azozi-A104 · 740221
 - **Title block:** (107, 0)–(338, 292) mm: WBS · CAHADA · 9-101 · 34 · 04 · V23obo Azozi-A104 · 74coo · 02 · 7495 · U5 · K2 · 74Coo · V23obo-A2ozi-A104 · 88 · LSt · -12 · ISSUE (DATE · REVISION · APP: · WBS WAAD-BeCk systeMS · DRNMrw 2/79 · EN
 
-Every curve, box, word and wire group: [1979 - M201 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1979 - M201 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1979 - M201 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

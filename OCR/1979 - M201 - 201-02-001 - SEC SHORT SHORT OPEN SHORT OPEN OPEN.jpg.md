@@ -24,7 +24,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Title block:** (359, 16)–(432, 32) mm: WBS WVARO-Beck sybtens
 - **Wiring (first pass):** 121 connected wire groups from 850 runs; labelled ends: 297 mm → StoRT, puxPEr, short, OPEN; 255 mm → R13<; 232 mm → <rls; 218 mm → Mzoi, ALDIC, Sabrt, RELAT; 93 mm → cry, CONTROL Cohvon
 
-Every curve, box, word and wire group: [1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-02-001%20-%20SEC%20SHORT%20SHORT%20OPEN%20SHORT%20OPEN%20OPEN%20(traced).json) (the CAD file: `1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN (traced).json](../SCHEMATICS/1979%20-%20M201%20-%20201-02-001%20-%20SEC%20SHORT%20SHORT%20OPEN%20SHORT%20OPEN%20OPEN%20%28traced%29.json) (the CAD file: `1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M201](../../../../PAGES/M201.md)
 - **Title block:** (358, 20)–(432, 60) mm: DATE · WBS · WAAD-Beck BybtemB · M201 · Ryl · RELAY · MODULE · SCALE · 201-02-001
 - **Wiring (first pass):** 122 connected wire groups from 815 runs, 2 dotted junctions; labelled ends: 332 mm → 088, 4k; 252 mm → DELA, delat, scC, Stoppiha; 191 mm → Dhor, short; 138 mm → La, Iao, DC CcntROL; 95 mm → R2s
 
-Every curve, box, word and wire group: [1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER (traced).json](../PINOUTS/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER%20(traced).json) (the CAD file: `1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER (traced).json](../PINOUTS/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER%20%28traced%29.json) (the CAD file: `1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER (traced).dxf`).
 
 ## Full text
 
