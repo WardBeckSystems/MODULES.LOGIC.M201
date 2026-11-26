@@ -1,0 +1,116 @@
+{
+ "drawing": "Modules/LOGIC/M201/MANUALS/1979 - M201 - Relay Module.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/6e639e964fa65dfa-p12.svg",
+ "sheet": {
+  "number": "201-06-001",
+  "title": "Mod Ule",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1564, 2000],
+  "mm": [337.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 0.0, 337.7, 294.3],
+ "outlines": {
+  "line": {"rings": 529, "straight": {"n": 5372, "mm": 10264.8}, "curved": {"n": 1538, "mm": 1630.1}},
+  "text": {"rings": 164, "straight": {"n": 1242, "mm": 1208.3}, "curved": {"n": 432, "mm": 505.6}},
+  "tb": {"rings": 3, "straight": {"n": 81, "mm": 154.0}, "curved": {"n": 10, "mm": 8.7}}
+ },
+ "circles": [
+  {"c": [133.5, 230.0], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [133.5, 214.8], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.3, 259.2], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [30.5, 186.0], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.5},
+  {"c": [125.0, 171.9], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [30.5, 186.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [136.2, 196.5], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [131.8, 233.0], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [25.3, 269.4, 32.6, 285.2], "w": 7.3, "h": 15.8, "from": "ring"},
+  {"mm": [124.4, 278.5, 131.3, 283.0], "w": 6.9, "h": 4.5, "from": "ring"},
+  {
+   "mm": [163.2, 169.7, 228.0, 275.9],
+   "w": 64.8,
+   "h": 106.2,
+   "from": "ring",
+   "words": ["AtO", "ll", ",6.10", "1(2", "V2~o!lO-", "...to'l.", "AIO\""]
+  },
+  {"mm": [163.8, 223.2, 227.6, 275.5], "w": 63.8, "h": 52.3, "from": "ring", "words": ["AtO", "ll", ",6.10"]},
+  {"mm": [20.1, 254.3, 22.5, 265.3], "w": 2.4, "h": 11.0, "from": "ring"},
+  {"mm": [119.6, 238.1, 147.2, 255.6], "w": 27.6, "h": 17.5, "from": "ring"},
+  {"mm": [11.8, 192.4, 22.7, 252.0], "w": 10.9, "h": 59.6, "from": "ring"},
+  {"mm": [250.9, 248.9, 253.5, 251.5], "w": 2.6, "h": 2.6, "from": "ring"},
+  {"mm": [58.4, 244.4, 61.1, 246.6], "w": 2.7, "h": 2.2, "from": "ring"},
+  {"mm": [45.8, 214.0, 74.1, 231.2], "w": 28.3, "h": 17.3, "from": "ring"},
+  {"mm": [164.1, 170.3, 227.3, 222.2], "w": 63.3, "h": 51.9, "from": "ring", "words": ["1(2", "V2~o!lO-", "...to'l.", "AIO\""]},
+  {"mm": [119.6, 189.3, 147.7, 207.1], "w": 28.1, "h": 17.8, "from": "ring"},
+  {"mm": [45.3, 197.5, 48.1, 199.7], "w": 2.8, "h": 2.2, "from": "ring"},
+  {"mm": [20.3, 179.2, 22.7, 190.0], "w": 2.4, "h": 10.8, "from": "ring"},
+  {"mm": [129.1, 163.7, 145.5, 179.2], "w": 16.4, "h": 15.5, "from": "ring"},
+  {"mm": [25.9, 159.7, 33.5, 175.5], "w": 7.6, "h": 15.8, "from": "ring"},
+  {"mm": [256.5, 45.1, 266.2, 49.7], "w": 9.7, "h": 4.5, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [266.9, 44.9, 276.8, 49.7], "w": 9.9, "h": 4.7, "from": "ring", "words": ["loAn"], "in_title_block": true},
+  {"mm": [277.2, 44.7, 328.0, 49.4], "w": 50.7, "h": 4.7, "from": "ring", "words": ["REVOSlON"], "in_title_block": true},
+  {"mm": [230.8, 25.5, 255.8, 30.0], "w": 25.0, "h": 4.5, "from": "ring", "words": ["ORN", "lil"], "in_title_block": true},
+  {"mm": [230.8, 20.1, 255.8, 24.8], "w": 25.0, "h": 4.7, "from": "ring", "words": ["ENG", "Ma"], "in_title_block": true},
+  {"mm": [230.8, 14.9, 255.8, 19.6], "w": 25.0, "h": 4.7, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [230.8, 9.9, 255.8, 14.5], "w": 25.0, "h": 4.6, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [188.3, 246.3, 209.2, 249.5], "text": "AtO ll ,6.10"},
+   {"mm": [189.8, 198.8, 195.8, 202.0], "text": "1(2"},
+   {"mm": [172.7, 193.0, 213.3, 196.9], "text": "V2~o!lO- ...to'l. AIO\""},
+   {"mm": [257.6, 45.3, 276.4, 49.4], "text": "ISSUE loAn"},
+   {"mm": [296.2, 45.6, 310.2, 48.2], "text": "REVOSlON"},
+   {"mm": [237.9, 33.2, 334.6, 41.9], "text": "VVE3S] WARD~BECK SYSTEMS"},
+   {"mm": [232.3, 25.7, 238.8, 28.6], "text": "ORN"},
+   {"mm": [249.4, 25.7, 253.7, 28.6], "text": "lil"},
+   {"mm": [232.1, 20.7, 246.3, 23.8], "text": "ENG Ma"},
+   {"mm": [295.8, 22.2, 300.7, 26.1], "text": "20"},
+   {"mm": [278.9, 17.3, 292.3, 21.1], "text": "REL AY"},
+   {"mm": [296.2, 17.1, 315.4, 21.1], "text": "MOD ULE"},
+   {"mm": [232.3, 15.8, 238.8, 18.6], "text": "CKD"},
+   {"mm": [272.7, 11.7, 323.2, 15.5], "text": "CO PO NENT LAYO UT"},
+   {"mm": [258.6, -1.3, 305.9, 9.5], "text": "el 201-06-001"},
+   {"mm": [324.5, 5.2, 333.8, 8.1], "text": "ISSU<"}
+  ]
+ },
+ "title_block": {
+  "mm": [225.3, 7.0, 337.7, 58.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE loAn",
+   "REVOSlON",
+   "VVE3S] WARD~BECK SYSTEMS",
+   "ORN",
+   "lil",
+   "ENG Ma",
+   "20",
+   "REL AY",
+   "MOD ULE",
+   "CKD",
+   "CO PO NENT LAYO UT",
+   "ISSU<"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 201-06-001, size B (assumed) 338 × 432 mm, 1564 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–338 mm across, 0–294 mm up",
+  "- **Outlines:** line 529 rings, 5,372 straight (10,265 mm) / 1,538 curved (1,630 mm); text 164 rings, 1,242 straight (1,208 mm) / 432 curved (506 mm); tb 3 rings, 81 straight (154 mm) / 10 curved (8.7 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 6.1 @ (133.5, 230.0), r 5.9 @ (133.5, 214.8), r 4.6 @ (30.3, 259.2), r 3.5 @ (30.5, 186.0)",
+  "- **Closed boxes:** 23 (7 in the title block); named: AtO ll ,6.10 1(2 V2~o!lO- ...to'l. AIO\"; AtO ll ,6.10; 1(2 V2~o!lO- ...to'l. AIO\"",
+  "- **Words (OCR):** 31 in 16 lines: AtO ll ,6.10 · 1(2 · V2~o!lO- ...to'l. AIO\" · ISSUE loAn · REVOSlON · VVE3S] WARD~BECK SYSTEMS · ORN · lil · ENG Ma · 20 · REL AY · MOD ULE",
+  "- **Title block:** (225, 7)–(338, 58) mm: ISSUE loAn · REVOSlON · VVE3S] WARD~BECK SYSTEMS · ORN · lil · ENG Ma · 20 · REL AY · MOD ULE · CKD · CO PO NENT LAYO UT · ISSU<"
+ ]
+}

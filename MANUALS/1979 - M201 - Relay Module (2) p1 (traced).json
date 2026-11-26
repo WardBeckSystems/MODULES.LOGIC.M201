@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/LOGIC/M201/MANUALS/1979 - M201 - Relay Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/eff1e1a8c2878c31-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1399, 2000],
+  "mm": [302.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 2.2, 282.0, 427.5],
+ "outlines": {
+  "line": {"rings": 75, "straight": {"n": 2766, "mm": 10020.9}, "curved": {"n": 201, "mm": 339.4}},
+  "text": {"rings": 25, "straight": {"n": 405, "mm": 759.0}, "curved": {"n": 82, "mm": 143.3}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [220.0, 209.6, 237.3, 212.9], "w": 17.3, "h": 3.2, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [219.7, 170.6, 237.1, 173.6], "w": 17.3, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [220.0, 131.5, 237.1, 134.5], "w": 17.1, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [219.6, 14.2, 236.7, 17.3], "w": 17.1, "h": 3.0, "from": "ring", "words": ["\\NBS"]}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [179.0, 392.9, 268.8, 412.1], "text": "\\NBS"},
+   {"mm": [120.0, 347.2, 268.6, 378.8], "text": "oue. \\NBS"},
+   {"mm": [3.5, 349.1, 73.2, 374.8], "text": "no '0ol"},
+   {"mm": [179.0, 319.5, 268.8, 338.7], "text": "\\NBS"},
+   {"mm": [179.0, 280.5, 268.8, 299.6], "text": "\\NBS"},
+   {"mm": [179.0, 240.9, 268.6, 260.1], "text": "\\NBS"},
+   {"mm": [179.0, 202.3, 268.8, 221.5], "text": "\\NBS"},
+   {"mm": [179.0, 163.2, 268.6, 182.4], "text": "\\NBS"},
+   {"mm": [179.0, 124.1, 269.4, 143.3], "text": "\\NBS"},
+   {"mm": [214.0, 98.0, 229.5, 104.0], "text": "H201"},
+   {"mm": [194.5, 88.3, 241.2, 94.5], "text": "RELAY MODULE"},
+   {"mm": [179.0, 46.0, 268.6, 65.2], "text": "\\NBS"},
+   {"mm": [257.8, 51.8, 276.6, 60.0], "text": "ps"},
+   {"mm": [247.4, 41.5, 267.1, 51.8], "text": "BS"},
+   {"mm": [179.0, 6.9, 268.6, 26.1], "text": "\\NBS"},
+   {"mm": [227.1, 21.4, 243.8, 27.9], "text": "tp"},
+   {"mm": [220.9, 14.9, 239.6, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1399 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–282 mm across, 2–428 mm up",
+  "- **Outlines:** line 75 rings, 2,766 straight (10,021 mm) / 201 curved (339 mm); text 25 rings, 405 straight (759 mm) / 82 curved (143 mm)",
+  "- **Closed boxes:** 4; named: \\NBS; \\NBS; \\NBS; \\NBS",
+  "- **Words (OCR):** 20 in 17 lines: \\NBS · oue. \\NBS · no '0ol · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · H201 · RELAY MODULE · \\NBS"
+ ]
+}

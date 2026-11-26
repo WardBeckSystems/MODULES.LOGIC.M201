@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/LOGIC/M201/MANUALS/1979 - M201 - Relay Module (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/eff1e1a8c2878c31-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1407, 2000],
+  "mm": [303.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.2, 0.4, 303.8, 431.8],
+ "outlines": {
+  "line": {"rings": 176, "straight": {"n": 2372, "mm": 5045.2}, "curved": {"n": 449, "mm": 671.9}},
+  "text": {"rings": 334, "straight": {"n": 2605, "mm": 2873.6}, "curved": {"n": 662, "mm": 1014.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 86,
+  "lines": [
+   {"mm": [12.1, 405.2, 118.7, 410.5], "text": "WARO·SECK SYSTEM LT"},
+   {"mm": [126.1, 358.0, 165.6, 363.7], "text": "PARTS LI ST"},
+   {"mm": [118.3, 344.1, 182.0, 349.9], "text": "01 REl AY ODULE"},
+   {"mm": [25.9, 318.7, 41.5, 324.4], "text": "PART"},
+   {"mm": [58.1, 318.2, 102.6, 324.0], "text": "DESCRI PTI ON"},
+   {"mm": [213.7, 316.7, 267.7, 322.5], "text": "FG PART HU MBER"},
+   {"mm": [25.7, 305.1, 32.8, 310.8], "text": "Ul"},
+   {"mm": [58.3, 304.9, 128.9, 310.6], "text": "Inte!ill\"illted C1rtu it"},
+   {"mm": [157.6, 304.2, 188.0, 310.0], "text": "Ha ion al"},
+   {"mm": [225.4, 302.9, 240.1, 308.7], "text": "CI4\""},
+   {"mm": [217.6, 296.2, 236.6, 302.0], "text": "74 C22"},
+   {"mm": [25.9, 291.7, 33.9, 298.4], "text": "U3"},
+   {"mm": [25.9, 285.0, 32.6, 291.5], "text": "U4"},
+   {"mm": [217.6, 283.3, 241.6, 289.0], "text": "74 COOH"},
+   {"mm": [25.9, 278.7, 34.3, 285.4], "text": "US"},
+   {"mm": [57.6, 265.1, 121.1, 271.5], "text": "ve 1tage Regulato"},
+   {"mm": [209.4, 263.6, 244.2, 269.4], "text": "lK340T ·12"},
+   {"mm": [45.6, 225.4, 68.4, 231.9], "text": "cmcc nc"},
+   {"mm": [82.0, 225.4, 132.1, 231.9], "text": "val ue de pe nds"},
+   {"mm": [149.6, 225.4, 160.4, 231.9], "text": "spe"},
+   {"mm": [185.5, 225.4, 203.2, 231.9], "text": "mo dol"},
+   {"mm": [41.7, 218.7, 60.5, 225.4], "text": "Con su"},
+   {"mm": [73.8, 218.7, 159.6, 225.4], "text": "sChemat ic or details."},
+   {"mm": [25.0, 145.5, 243.3, 152.2], "text": "was ecoMmen ds he us of repla ceaen pa ts Made by he"},
+   {"mm": [25.5, 138.8, 84.2, 145.5], "text": "speci ied Manuf"},
+   {"mm": [97.4, 138.8, 242.5, 145.5], "text": "ur rs or con in ued optiMUM equi pMent"},
+   {"mm": [25.5, 132.6, 68.2, 139.0], "text": "ce oreen ce"},
+   {"mm": [259.3, 52.0, 278.3, 60.2], "text": "ps"},
+   {"mm": [248.9, 41.7, 268.8, 52.0], "text": "BS"},
+   {"mm": [228.4, 21.4, 245.3, 27.9], "text": "tp"},
+   {"mm": [221.9, 14.9, 240.9, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 304 × 432 mm, 1407 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–304 mm across, 0–432 mm up",
+  "- **Outlines:** line 176 rings, 2,372 straight (5,045 mm) / 449 curved (672 mm); text 334 rings, 2,605 straight (2,874 mm) / 662 curved (1,015 mm)",
+  "- **Words (OCR):** 86 in 31 lines: WARO·SECK SYSTEM LT · PARTS LI ST · 01 REl AY ODULE · PART · DESCRI PTI ON · FG PART HU MBER · Ul · Inte!ill\"illted C1rtu it · Ha ion al · CI4\" · 74 C22 · U3"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/LOGIC/M201/MANUALS/1979 - M201 - Relay Module.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/6e639e964fa65dfa-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1407, 2000],
+  "mm": [303.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.7, 0.9, 297.5, 413.0],
+ "outlines": {
+  "line": {"rings": 217, "straight": {"n": 3338, "mm": 7573.2}, "curved": {"n": 543, "mm": 830.4}},
+  "text": {"rings": 140, "straight": {"n": 1099, "mm": 1251.7}, "curved": {"n": 274, "mm": 407.6}}
+ },
+ "circles": [
+  {"c": [146.0, 312.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.6, 63.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [152.9, 310.9, 155.0, 313.9], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [215.5, 62.8, 217.6, 65.8], "w": 2.2, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [13.4, 406.3, 125.9, 411.8], "text": "WARD-BECK SYSTEM LTD"},
+   {"mm": [119.8, 358.4, 178.3, 365.1], "text": "TI MING DIAGRAM"},
+   {"mm": [111.6, 345.0, 123.5, 351.7], "text": "H20"},
+   {"mm": [136.0, 345.0, 184.2, 351.7], "text": "RELAY MODULE"},
+   {"mm": [84.8, 322.3, 89.2, 327.1], "text": "tII"},
+   {"mm": [87.2, 303.1, 140.3, 319.9], "text": "::-VSWIKM"},
+   {"mm": [32.2, 301.4, 51.0, 307.4], "text": "Switc"},
+   {"mm": [60.5, 301.4, 79.0, 308.1], "text": "Inp ut"},
+   {"mm": [31.7, 268.1, 71.5, 276.1], "text": "ur pin 10"},
+   {"mm": [31.7, 234.5, 71.7, 241.2], "text": "U4 pi 11"},
+   {"mm": [31.7, 201.9, 42.5, 207.6], "text": "U2."},
+   {"mm": [31.7, 168.6, 59.2, 175.3], "text": "U4 pin"},
+   {"mm": [188.0, 147.7, 206.6, 151.5], "text": "SII DOl"},
+   {"mm": [267.1, 138.8, 278.1, 146.7], "text": "-00'"},
+   {"mm": [31.7, 135.8, 39.5, 141.6], "text": "U2"},
+   {"mm": [47.9, 135.6, 54.2, 142.3], "text": "pi"},
+   {"mm": [31.7, 102.6, 54.2, 109.3], "text": "U4 pi"},
+   {"mm": [31.7, 69.5, 54.2, 76.2], "text": "U4, pi"},
+   {"mm": [141.8, 62.6, 145.7, 66.2], "text": "l1"},
+   {"mm": [232.5, 62.0, 262.5, 66.0], "text": "Df._[NIIGIIU"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 304 × 432 mm, 1407 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–298 mm across, 1–413 mm up",
+  "- **Outlines:** line 217 rings, 3,338 straight (7,573 mm) / 543 curved (830 mm); text 140 rings, 1,099 straight (1,252 mm) / 274 curved (408 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (146.0, 312.5), r 1.6 @ (232.6, 63.9)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 34 in 20 lines: WARD-BECK SYSTEM LTD · TI MING DIAGRAM · H20 · RELAY MODULE · tII · ::-VSWIKM · Switc · Inp ut · ur pin 10 · U4 pi 11 · U2. · U4 pin"
+ ]
+}

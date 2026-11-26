@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/LOGIC/M201/SCHEMATICS/M201 - P12 - Layout.jpg",
+ "version": 1,
+ "trace": "_traces/700342b05c21c661.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [704, 900],
+  "mm": [337.8, 431.8],
+  "mm_per_px": 0.47978
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 337.8, 294.1],
+ "outlines": {
+  "line": {"rings": 227, "straight": {"n": 1988, "mm": 7216.4}, "curved": {"n": 554, "mm": 1183.5}},
+  "text": {"rings": 56, "straight": {"n": 396, "mm": 664.1}, "curved": {"n": 136, "mm": 283.9}},
+  "tb": {"rings": 140, "straight": {"n": 1039, "mm": 2971.2}, "curved": {"n": 311, "mm": 674.4}}
+ },
+ "circles": [
+  {"c": [30.3, 259.1], "r": 4.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [30.5, 186.0], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.3}
+ ],
+ "boxes": [
+  {"mm": [24.5, 268.7, 33.6, 285.9], "w": 9.1, "h": 17.3, "from": "ring"},
+  {"mm": [20.2, 254.2, 22.5, 265.3], "w": 2.4, "h": 11.2, "from": "ring"},
+  {"mm": [28.8, 257.5, 31.8, 260.5], "w": 3.0, "h": 3.0, "from": "ring"},
+  {"mm": [269.6, 252.4, 288.8, 255.2], "w": 19.2, "h": 2.9, "from": "ring"},
+  {"mm": [78.2, 226.9, 81.2, 231.7], "w": 3.0, "h": 4.8, "from": "ring"},
+  {"mm": [45.6, 213.4, 74.5, 231.3], "w": 28.9, "h": 17.9, "from": "ring", "words": ["74Ci"]},
+  {"mm": [269.6, 226.9, 289.3, 229.8], "w": 19.7, "h": 2.9, "from": "ring"},
+  {"mm": [78.7, 220.2, 81.6, 226.5], "w": 2.9, "h": 6.2, "from": "ring"},
+  {"mm": [269.6, 220.7, 288.8, 223.6], "w": 19.2, "h": 2.9, "from": "ring"},
+  {"mm": [86.8, 219.7, 89.7, 221.8], "w": 2.9, "h": 2.0, "from": "ring"},
+  {"mm": [269.6, 201.5, 288.8, 204.4], "w": 19.2, "h": 2.9, "from": "ring"},
+  {"mm": [93.6, 199.9, 96.0, 203.4], "w": 2.4, "h": 3.5, "from": "ring"},
+  {"mm": [269.6, 195.3, 289.3, 198.1], "w": 19.7, "h": 2.9, "from": "ring"},
+  {"mm": [24.9, 158.7, 34.1, 176.1], "w": 9.1, "h": 17.4, "from": "ring"},
+  {"mm": [256.7, 45.1, 266.3, 49.4], "w": 9.6, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [277.2, 45.1, 328.2, 49.4], "w": 51.0, "h": 4.3, "from": "ring"},
+  {"mm": [275.4, 12.4, 278.9, 15.8], "w": 3.5, "h": 3.5, "from": "ring"},
+  {"mm": [230.8, 10.1, 255.7, 14.5], "w": 24.9, "h": 4.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [113.7, 276.8, 139.6, 283.8], "text": "WBS"},
+   {"mm": [116.6, 261.5, 138.7, 268.9], "text": "9-101"},
+   {"mm": [169.4, 245.2, 185.7, 251.0], "text": "729030"},
+   {"mm": [51.8, 217.8, 64.3, 221.6], "text": "74Ci"},
+   {"mm": [84.4, 194.8, 101.7, 198.5], "text": "74072"},
+   {"mm": [126.2, 193.4, 142.5, 199.2], "text": "74Coo"},
+   {"mm": [188.6, 192.4, 215.4, 198.3], "text": "42ozi- 4104"},
+   {"mm": [236.5, 34.1, 335.4, 41.0], "text": "WBS WAAO-Deck BystemI"},
+   {"mm": [277.3, 0.0, 307.5, 7.5], "text": "201-06-001"}
+  ]
+ },
+ "title_block": {"mm": [106.9, 25.4, 269.2, 292.2], "from": "title-block words (training set)", "text": ["WBS", "9-101", "729030", "74Coo", "42ozi- 4104"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout, size B (assumed) 338 × 432 mm, 704 × 900 px traced (0.480 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 0–294 mm up",
+  "- **Outlines:** line 227 rings, 1,988 straight (7,216 mm) / 554 curved (1,184 mm); text 56 rings, 396 straight (664 mm) / 136 curved (284 mm); tb 140 rings, 1,039 straight (2,971 mm) / 311 curved (674 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.7 @ (30.3, 259.1), r 3.5 @ (30.5, 186.0)",
+  "- **Closed boxes:** 18 (1 in the title block); named: 74Ci",
+  "- **Words (OCR):** 10 in 9 lines: WBS · 9-101 · 729030 · 74Ci · 74072 · 74Coo · 42ozi- 4104 · WBS WAAO-Deck BystemI · 201-06-001",
+  "- **Title block:** (107, 25)–(269, 292) mm: WBS · 9-101 · 729030 · 74Coo · 42ozi- 4104"
+ ]
+}

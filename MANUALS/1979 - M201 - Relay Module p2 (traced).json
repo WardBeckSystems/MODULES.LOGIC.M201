@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/LOGIC/M201/MANUALS/1979 - M201 - Relay Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/6e639e964fa65dfa-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1399, 2000],
+  "mm": [302.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.3, 6.9, 290.4, 417.6],
+ "outlines": {
+  "line": {"rings": 160, "straight": {"n": 2285, "mm": 4578.6}, "curved": {"n": 460, "mm": 710.8}},
+  "text": {"rings": 23, "straight": {"n": 385, "mm": 674.2}, "curved": {"n": 63, "mm": 117.2}}
+ },
+ "circles": [{"c": [157.3, 232.3], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [100.4, 402.4, 141.2, 409.4], "text": "WARD-"},
+   {"mm": [158.5, 402.4, 226.5, 409.4], "text": "CK SYSTEM"},
+   {"mm": [240.1, 402.4, 259.9, 409.4], "text": "LTD"},
+   {"mm": [25.5, 392.5, 90.9, 407.9], "text": "(\\NBS)"},
+   {"mm": [130.2, 240.5, 169.0, 250.6], "text": "M201"},
+   {"mm": [121.3, 228.0, 178.3, 234.0], "text": "RELAY MODULE"}
+  ]
+ },
+ "dots": [{"c": [215.1, 398.1], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1399 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–290 mm across, 7–418 mm up",
+  "- **Outlines:** line 160 rings, 2,285 straight (4,579 mm) / 460 curved (711 mm); text 23 rings, 385 straight (674 mm) / 63 curved (117 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.7 @ (157.3, 232.3)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 8 in 6 lines: WARD- · CK SYSTEM · LTD · (\\NBS) · M201 · RELAY MODULE"
+ ]
+}
