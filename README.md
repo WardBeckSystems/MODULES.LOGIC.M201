@@ -1,17 +1,17 @@
-# M201 · Logic
+# M201 Relay Module · Logic
 
 Ward-Beck Systems M201, 1979|12. Wiki page: [M201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M201.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 19 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 109 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 102 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -138,7 +138,7 @@ Not on Google Drive yet: `1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DR
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcnVTVDRySHVxbHc/view?resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcnVTVDRySHVxbHc&resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" width="240" alt="1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.jpg"></a><br><sub>1979|12 · 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER · <a href="PINOUTS/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKS1VHWEh0QkFyYms/view?resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKS1VHWEh0QkFyYms&resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" width="240" alt="1979 - M201 - P13 - Pin outs.jpg"></a><br><sub>1979|12 · P13 - Pin outs</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcnVTVDRySHVxbHc/view?resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcnVTVDRySHVxbHc&resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" width="240" alt="1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.jpg"></a><br><sub>1979|12 · 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER · <a href="PINOUTS/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKS1VHWEh0QkFyYms/view?resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKS1VHWEh0QkFyYms&resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" width="240" alt="1979 - M201 - P13 - Pin outs.jpg"></a><br><sub>1979|12 · P13 - Pin outs · <a href="PINOUTS/1979%20-%20M201%20-%20P13%20-%20Pin%20outs%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M201 - RTO-144 Connections.pdf`
@@ -197,7 +197,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQVNwZXQtU0hHQmc/view?resourcekey=0-DxTsb3deJhSupRM-nbhMUg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQVNwZXQtU0hHQmc&resourcekey=0-DxTsb3deJhSupRM-nbhMUg" width="240" alt="1979 - M201 - p7.jpg"></a><br><sub>1979|12 · p7</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1979 - M201 - Table of Contents M201 Relay Module.jpg`, `19xx - M201 - TEST PROCEDURE M201 RELAY MODULE.jpeg`, `M201 - P03(1).jpg`, `M201 - P03.jpg`, `M201 - P05 - 1-1(1).jpg`, `M201 - P05 - 1-1.jpg`, `M201 - P10 - 4-3(1).jpg`, `M201 - P10 - 4-3.jpg`
+Not on Google Drive yet: `19xx - M201 - TEST PROCEDURE M201 RELAY MODULE.jpeg`
 
 ## KiCad
 
@@ -205,6 +205,7 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.kicad_sch](KICAD/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER.kicad_sch)
 - [1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN.kicad_sch](KICAD/1979%20-%20M201%20-%20201-02-001%20-%20SEC%20SHORT%20SHORT%20OPEN%20SHORT%20OPEN%20OPEN.kicad_sch)
+- [19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator.kicad_sch](KICAD/19xx%20-%20M201%20-%20Integrated%20Circuit%20Data%2074C221%20Dual%20Monostable%20Multivibrator.kicad_sch)
 - [M201.kicad_sym](KICAD/M201.kicad_sym)
 - [index.html](KICAD/index.html)
 
