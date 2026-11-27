@@ -13,6 +13,116 @@ Ward-Beck Systems M201, 1979|12. Wiki page: [M201 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Circuit description
+
+From [1979 - M201 - Relay Module.pdf](MANUALS/1979%20-%20M201%20-%20Relay%20Module.pdf) pages 5-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**H20 1 RELAY MODULE**
+
+The H20I Relay Hodul e 1s designed t o be used as an audios wi tc her. It comprises two identical relay swi tc h1ng circuits, each capable of s w1tc hlng either one oft wo balanced inputs t o one balanced output.
+
+Provision i s made for insertion of a fixed loss a tten lJa tor into the normally open path, expanding the use fulness o r the module for applicationS such as slating, par t-muting and similar functions.
+
+The open circuit voltage a t mo dlJle pin 2 is a ppr oxi mat el y +9 volts. With the control terminal floating, the associated relay will bede energized. Alter native l y, a logic &quot; I&quot; voltages uppl ted to the control terminal. ranging from +9 t o +30 volts, willa lso keep the relay de -en erg 1zed. Once a logic &quot; 0&quot; i s a pp11ed tot Ile control input, ranging from 0 to +2 volts, the associated relay will energ 1ze. Separate, adjustable delays maybe selected fort her el ay pu l lin and d r op~ou t times. For adjustment of the delay times, refer t o the schematic.
+
+A separate timing diagram on page 2-1 shows the operation of the logic circuitry.
+
+Pins Band P oft he module co nneclor are each capable of sinking a current of approximately 20 mA maximum for such purposes a s external COntrol an d/or a n indicator lamp.
+
+i -r
+
+**H20 1 RELAY MODULE**
+
+tII V - -- -.
+
+Switch Input
+
+**::-VSWIKM**
+
+ur, pin 10
+
+U4. pin 11
+
+U2. pin 4
+
+U4. pin 6
+
+SII DOl..,,u~. &quot;&quot;&gt;..-0' -00' U2, pin 5 I:l I...•..,
+
+U4. pin J I
+
+U4, pin 8. u..., ~ N ('G l1 U
+
+....... Df._[NIIGIIU
+
+**INTEGRATED CIRCUIT DATA**
+
+H Clll DUAL HONOSTA8LE HUlTI VI 8RATOR
+
+The 74C2 21 dual ~onost~ble multivibr~t or Is a CMOS 1ntegra ted circuit. Each mult1v1b ra tor features a negat1ve-tran s itio n_ t r 1gge red input and a pos1t 1ve -transit10 n-triyyercd input either of which can be used as a n inhibit input, and a clear input. Once f1re d, the out put pulses are Independent o r further transitions oft he A and B Inputs and area function oft he oMtarnal timing co_ponc nt s CEXT ~n d REXT.
+
+..,, ='iJ t-'!- •• ~ 1R/ C u 1
+
+**1 CLR**
+
+t-'!-1C u 1
+
+2C u t -= &quot; l CLR
+
+2R/ C U f -..:..
+
+**IHP UTS OUTPUTS**
+
+ClCAR A B Q Q, H • H19h level l • low lncl • 7 r ansi t ion fro_ low t o high l X X l H ~ • 7 r ~ n s lt f on fro_ h1 gh X H X l H t o low
+
+l H
+
+0 ne high level pulse
+
+0 ne low tevet pulse
+
+H ~ H ~ ~ X ~ I r re I uvan t
+
+74CZl l
+
+WAFlO ·BECK BYSTEMS LTO.
+
+**HZOI R£LAY MOOULE**
+
+PART O£ SCRI PTIO If MF&lt; MFS PART NUMBER C1 Capa d tor 0.1 uF IJS V (e_ et T3 9 0AI 04MOl SAS C2 • 10 uF /Z S Y • Tl9DC I06 MO ZSAS
+
+C4 • 0.1 u Fn S V • T3 9 0A 10 4 M0 3 5AS C5 • 10 u F/ Z5 Y • T390C I06 M0 2 5AS
+
+C7 • I u FIJ S V • T39 0B1 0 5MO l SAS C8 • 4.7 u r /Z s V • T3 9DC4 7 SM0 2 5 AS
+
+COl Diode Motorola I N40 0 3 CO2 • Fa1 r c h ll d I N4 14 8
+
+CR4 • Motorola I N40 0 l COS • Fair child I N4 14 8
+
+CR7 • Motorola I N4 0 0 l
+
+Relay
+
+YZl030-A202 1-A to 4
+
+Ql 'r r a ns t s tor National 2&quot;3569
+
+Resistor \ W 51
+
+Ph lllps
+
+R4 Trim pot Pi her PT l Oh (2.5) • R5 Resistor ~ W 5% Phi l1ps •
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
