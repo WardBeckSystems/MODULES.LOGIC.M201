@@ -3,14 +3,650 @@
  "connector": "RTO-144",
  "type": null,
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": null,
+   "rows": "numbers and letters (as shown on schematic edge)",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
- "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M201/M201.rto144.json"
- ]
+ "built_from": {
+  "pictures": [
+   "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+   "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M201/M201.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "DC CONTROL 1 IN",
+   "kind": "control_in",
+   "port": "DC CONTROL 1 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "ENERGIZED INPUT 1",
+   "kind": "in",
+   "port": "ENERGIZED INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF INPUT 1",
+   "kind": "in",
+   "port": "OFF INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF INPUT 2",
+   "kind": "in",
+   "port": "OFF INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "ENERGIZED INPUT 2",
+   "kind": "in",
+   "port": "ENERGIZED INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "DC CONTROL 2 IN",
+   "kind": "control_in",
+   "port": "DC CONTROL 2 IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "DC CONTROL 1 OUT",
+   "kind": "control_out",
+   "port": "DC CONTROL 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "ENERGIZED INPUT 1",
+   "kind": "in",
+   "port": "ENERGIZED INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF INPUT 1",
+   "kind": "in",
+   "port": "OFF INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF INPUT 2",
+   "kind": "in",
+   "port": "OFF INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "ENERGIZED INPUT 2",
+   "kind": "in",
+   "port": "ENERGIZED INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "DC CONTROL 2 OUT",
+   "kind": "control_out",
+   "port": "DC CONTROL 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.pinout.json",
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M201/PINOUTS/1979 - M201 - P13 - Pin outs.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "OFF INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-E"
+   }
+  },
+  {
+   "name": "ENERGIZED INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-D"
+   }
+  },
+  {
+   "name": "OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-7",
+    "b": "P1-H"
+   }
+  },
+  {
+   "name": "DC CONTROL 1 IN",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-2"
+   }
+  },
+  {
+   "name": "DC CONTROL 1 OUT",
+   "dir": "control_out",
+   "pins": {
+    "+": "P1-B"
+   }
+  },
+  {
+   "name": "OFF INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-M"
+   }
+  },
+  {
+   "name": "ENERGIZED INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-N"
+   }
+  },
+  {
+   "name": "OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-9",
+    "b": "P1-K"
+   }
+  },
+  {
+   "name": "DC CONTROL 2 IN",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-13"
+   }
+  },
+  {
+   "name": "DC CONTROL 2 OUT",
+   "dir": "control_out",
+   "pins": {
+    "+": "P1-P"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "PULL-IN DELAY 1",
+   "pins": [
+    "J5-A",
+    "J5-B"
+   ],
+   "note": "DELAY STRAPPING: 0.1 SEC jumper A SHORT, B SHORT; 0.25 SEC A SHORT, B OPEN; 0.5 SEC A OPEN, B OPEN"
+  },
+  {
+   "name": "DROP-OUT DELAY 1",
+   "pins": [
+    "J6-A",
+    "J6-B"
+   ],
+   "note": "same delay table"
+  },
+  {
+   "name": "PULL-IN DELAY 2",
+   "pins": [
+    "J7-A",
+    "J7-B"
+   ],
+   "note": "same delay table"
+  },
+  {
+   "name": "DROP-OUT DELAY 2",
+   "pins": [
+    "J8-A",
+    "J8-B"
+   ],
+   "note": "same delay table"
+  },
+  {
+   "name": "VARIATION J1-J4",
+   "pins": [
+    "J1",
+    "J2",
+    "J3",
+    "J4"
+   ],
+   "note": "jumpers across R1/R2, R5/R6, R20/R21, R24/R25; variation legend: M201 AUDIO SWITCH R1/R2 R20/R21 SHORT, R3/R22 OPEN, R4/R23 OPEN, R5/R6 R24/R25 SHORT; M201A SLATE RELAY (-18dB) 4K3, 620, 5K, SHORT; M201B MONITOR DIM 300, 62, 5K, SHORT"
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }

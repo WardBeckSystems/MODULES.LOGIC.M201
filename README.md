@@ -145,10 +145,42 @@ Not on Google Drive yet: `M201 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | +24 V | power |  | high |
+| 2 | DC CONTROL 1 IN | control_in | DC CONTROL 1 IN | high |
+| 3 | N/C | nc |  | high |
+| 4 | ENERGIZED INPUT 1 | in | ENERGIZED INPUT 1 | high |
+| 5 | OFF INPUT 1 | in | OFF INPUT 1 | high |
+| 6 | SHIELD | shield | shield | high |
+| 7 | OUTPUT 1 | out | OUTPUT 1 | high |
+| 8 | N/C | nc |  | high |
+| 9 | OUTPUT 2 | out | OUTPUT 2 | high |
+| 10 | N/C | nc |  | high |
+| 11 | OFF INPUT 2 | in | OFF INPUT 2 | high |
+| 12 | ENERGIZED INPUT 2 | in | ENERGIZED INPUT 2 | high |
+| 13 | DC CONTROL 2 IN | control_in | DC CONTROL 2 IN | high |
+| 14 | CONTROL COMMON | ground |  | high |
+| 15 | N/C | nc |  | high |
+| A | N/C | nc |  | high |
+| B | DC CONTROL 1 OUT | control_out | DC CONTROL 1 OUT | high |
+| C | N/C | nc |  | high |
+| D | ENERGIZED INPUT 1 | in | ENERGIZED INPUT 1 | high |
+| E | OFF INPUT 1 | in | OFF INPUT 1 | high |
+| F | N/C | nc |  | high |
+| H | OUTPUT 1 | out | OUTPUT 1 | high |
+| J | N/C | nc |  | high |
+| K | OUTPUT 2 | out | OUTPUT 2 | high |
+| L | SHIELD | shield | shield | high |
+| M | OFF INPUT 2 | in | OFF INPUT 2 | high |
+| N | ENERGIZED INPUT 2 | in | ENERGIZED INPUT 2 | high |
+| P | DC CONTROL 2 OUT | control_out | DC CONTROL 2 OUT | high |
+| R | N/C | nc |  | high |
+| S | N/C | nc |  | high |
+
+**Straps:** PULL-IN DELAY 1: J5-A J5-B · DROP-OUT DELAY 1: J6-A J6-B · PULL-IN DELAY 2: J7-A J7-B · DROP-OUT DELAY 2: J8-A J8-B · VARIATION J1-J4: J1 J2 J3 J4
 
 ## Manuals and documents
 

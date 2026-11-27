@@ -1,0 +1,359 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.jpg",
+  "module": "M201",
+  "applies_to": [
+    "M201",
+    "M201A",
+    "M201B"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "201-02-001",
+    "title": "M201 RELAY MODULE SCHEMATIC",
+    "date": "1979-02",
+    "issue": "1",
+    "drawn": "MRW"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": null,
+      "rows": "numbers and letters (as shown on schematic edge)",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "CONTROL COMMON",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 1",
+      "signal": "OFF INPUT 1",
+      "kind": "in",
+      "port": "OFF INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 1",
+      "signal": "OFF INPUT 1",
+      "kind": "in",
+      "port": "OFF INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "'ENERGIZED' INPUT 1",
+      "signal": "ENERGIZED INPUT 1",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "'ENERGIZED' INPUT 1",
+      "signal": "ENERGIZED INPUT 1",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "DC CONTROL 1 IN",
+      "signal": "DC CONTROL 1 IN",
+      "kind": "control_in",
+      "port": "DC CONTROL 1 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "DC CONTROL 1 OUT",
+      "signal": "DC CONTROL 1 OUT",
+      "kind": "control_out",
+      "port": "DC CONTROL 1 OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 2",
+      "signal": "OFF INPUT 2",
+      "kind": "in",
+      "port": "OFF INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 2",
+      "signal": "OFF INPUT 2",
+      "kind": "in",
+      "port": "OFF INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "'ENERGIZED' INPUT 2",
+      "signal": "ENERGIZED INPUT 2",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "'ENERGIZED' INPUT 2",
+      "signal": "ENERGIZED INPUT 2",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "DC CONTROL 2 IN",
+      "signal": "DC CONTROL 2 IN",
+      "kind": "control_in",
+      "port": "DC CONTROL 2 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "DC CONTROL 2 OUT",
+      "signal": "DC CONTROL 2 OUT",
+      "kind": "control_out",
+      "port": "DC CONTROL 2 OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    }
+  ],
+  "ports": [
+    {
+      "name": "OFF INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-E"
+      }
+    },
+    {
+      "name": "ENERGIZED INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-D"
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-7",
+        "b": "P1-H"
+      }
+    },
+    {
+      "name": "OFF INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-M"
+      }
+    },
+    {
+      "name": "ENERGIZED INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-N"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-9",
+        "b": "P1-K"
+      }
+    },
+    {
+      "name": "DC CONTROL 1 IN",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-2"
+      }
+    },
+    {
+      "name": "DC CONTROL 1 OUT",
+      "dir": "control_out",
+      "pins": {
+        "+": "P1-B"
+      }
+    },
+    {
+      "name": "DC CONTROL 2 IN",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-13"
+      }
+    },
+    {
+      "name": "DC CONTROL 2 OUT",
+      "dir": "control_out",
+      "pins": {
+        "+": "P1-P"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "PULL-IN DELAY 1",
+      "pins": [
+        "J5-A",
+        "J5-B"
+      ],
+      "note": "DELAY STRAPPING: 0.1 SEC jumper A SHORT, B SHORT; 0.25 SEC A SHORT, B OPEN; 0.5 SEC A OPEN, B OPEN"
+    },
+    {
+      "name": "DROP-OUT DELAY 1",
+      "pins": [
+        "J6-A",
+        "J6-B"
+      ],
+      "note": "same delay table"
+    },
+    {
+      "name": "PULL-IN DELAY 2",
+      "pins": [
+        "J7-A",
+        "J7-B"
+      ],
+      "note": "same delay table"
+    },
+    {
+      "name": "DROP-OUT DELAY 2",
+      "pins": [
+        "J8-A",
+        "J8-B"
+      ],
+      "note": "same delay table"
+    },
+    {
+      "name": "VARIATION J1-J4",
+      "pins": [
+        "J1",
+        "J2",
+        "J3",
+        "J4"
+      ],
+      "note": "jumpers across R1/R2, R5/R6, R20/R21, R24/R25; variation legend: M201 AUDIO SWITCH R1/R2 R20/R21 SHORT, R3/R22 OPEN, R4/R23 OPEN, R5/R6 R24/R25 SHORT; M201A SLATE RELAY (-18dB) 4K3, 620, 5K, SHORT; M201B MONITOR DIM 300, 62, 5K, SHORT"
+    }
+  ],
+  "unread": [
+    "connector name not drawn; 'P1' assumed",
+    "small component values read at reduced size; not needed for the pinout"
+  ],
+  "confidence": "medium",
+  "notes": "Schematic, not a connector layout: pins read from the connector arrows at the schematic edges. Audio paths: 'OFF' INPUT through K contacts (NC side) to OUTPUT, 'ENERGIZED' INPUT through R1-R4 / R20-R23 to the NO side. DC CONTROL IN drives a 74C14/74C221 pull-in / drop-out delay and 2N3569 relay driver; DC CONTROL OUT is the relay coil low side. ENG MRW, CKD signature. Uses PCB 9-101."
+}

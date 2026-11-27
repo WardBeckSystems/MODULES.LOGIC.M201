@@ -1,0 +1,413 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1979 - M201 - P13 - Pin outs.jpg",
+  "module": "M201",
+  "applies_to": [
+    "M201"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "201-04-001",
+    "title": "M201 RELAY MODULE CONNECTOR LAYOUT",
+    "date": "1979-02",
+    "issue": "1",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 30,
+      "rows": "A-S (no G, I, O, Q) opposite 1-15",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "DC CTL 1 IN",
+      "signal": "DC CONTROL 1 IN",
+      "kind": "control_in",
+      "port": "DC CONTROL 1 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "DC CTL 1 OUT",
+      "signal": "DC CONTROL 1 OUT",
+      "kind": "control_out",
+      "port": "DC CONTROL 1 OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "ENERG. INPUT 1",
+      "signal": "ENERGIZED INPUT 1",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "ENERG. INPUT 1",
+      "signal": "ENERGIZED INPUT 1",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 1",
+      "signal": "OFF INPUT 1",
+      "kind": "in",
+      "port": "OFF INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 1",
+      "signal": "OFF INPUT 1",
+      "kind": "in",
+      "port": "OFF INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 2",
+      "signal": "OFF INPUT 2",
+      "kind": "in",
+      "port": "OFF INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "'OFF' INPUT 2",
+      "signal": "OFF INPUT 2",
+      "kind": "in",
+      "port": "OFF INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "ENERG. INPUT 2",
+      "signal": "ENERGIZED INPUT 2",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "ENERG. INPUT 2",
+      "signal": "ENERGIZED INPUT 2",
+      "kind": "in",
+      "port": "ENERGIZED INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "DC CTL 2 IN",
+      "signal": "DC CONTROL 2 IN",
+      "kind": "control_in",
+      "port": "DC CONTROL 2 IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "DC CTL 2 OUT",
+      "signal": "DC CONTROL 2 OUT",
+      "kind": "control_out",
+      "port": "DC CONTROL 2 OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "OFF INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-E"
+      }
+    },
+    {
+      "name": "ENERGIZED INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-D"
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-7",
+        "b": "P1-H"
+      }
+    },
+    {
+      "name": "DC CONTROL 1 IN",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-2"
+      }
+    },
+    {
+      "name": "DC CONTROL 1 OUT",
+      "dir": "control_out",
+      "pins": {
+        "+": "P1-B"
+      }
+    },
+    {
+      "name": "OFF INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-M"
+      }
+    },
+    {
+      "name": "ENERGIZED INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-N"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-9",
+        "b": "P1-K"
+      }
+    },
+    {
+      "name": "DC CONTROL 2 IN",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-13"
+      }
+    },
+    {
+      "name": "DC CONTROL 2 OUT",
+      "dir": "control_out",
+      "pins": {
+        "+": "P1-P"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "DRN field blank; CKD signature not legible"
+  ],
+  "confidence": "high",
+  "notes": "Two-sided edge connector: numbers 1-15 on one side with labels to the right, letters A-S on the other with labels to the left; each label belongs to one side only, so letters are recorded as their own pins (also=null). Connector name not drawn; 'P1' assumed. Audio pairs carry no polarity marks (a = number side, b = letter side). Relay module: 'OFF' input feeds the output when the relay is released, 'ENERG.' input when energized. Legend: NC = NOT CONNECTED."
+}
