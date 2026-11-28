@@ -1,6 +1,6 @@
 # M201 Relay Module · Logic
 
-Ward-Beck Systems M201, 1979|12. Wiki page: [M201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M201.html)
+Ward-Beck Systems M201, 1979|12. Wiki page: [M201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.LOGIC.M201-Relay-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

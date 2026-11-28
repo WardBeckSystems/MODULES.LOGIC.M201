@@ -1,5 +1,5 @@
 # 19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator.jpg
-Wiki page: [M201](../../../../PAGES/M201.md)
+Wiki page: [M201](../)
 
 
 - **Year:** unknown (title block (read by eye))

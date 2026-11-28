@@ -1,5 +1,5 @@
 # 1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M201](../../../../PAGES/M201.md)
+Wiki page: [M201](../)
 
 
 - **Year:** 1979 (module estimate (manual_issue))

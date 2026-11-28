@@ -1,5 +1,5 @@
 # 19xx - M201 - TEST PROCEDURE M201 RELAY MODULE.jpeg
-Wiki page: [M201](../../../../PAGES/M201.md)
+Wiki page: [M201](../)
 
 
 - **Year:** unknown (title block (read by eye))

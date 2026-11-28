@@ -1,5 +1,5 @@
 # 1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1.jpg
-Wiki page: [M201](../../../../PAGES/M201.md)
+Wiki page: [M201](../)
 
 
 - **Year:** 1979 (title block date)

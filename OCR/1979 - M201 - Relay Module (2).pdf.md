@@ -1,5 +1,5 @@
 # 1979 - M201 - Relay Module (2).pdf
-Wiki page: [M201](../../../../PAGES/M201.md)
+Wiki page: [M201](../)
 
 
 - **Year:** 1979 (module estimate (manual_issue))
