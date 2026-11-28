@@ -4,13 +4,11 @@ Ward-Beck Systems M201, 1979|12. Wiki page: [M201 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 102 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 14 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 101 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -131,8 +129,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVHpkY1lTY0lQNjg/view?resourcekey=0-oPrOQqmScDbcqbQZoeoePw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVHpkY1lTY0lQNjg&resourcekey=0-oPrOQqmScDbcqbQZoeoePw" width="240" alt="1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN.jpg"></a><br><sub>1979|12 · 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN · <a href="SCHEMATICS/1979%20-%20M201%20-%20201-02-001%20-%20SEC%20SHORT%20SHORT%20OPEN%20SHORT%20OPEN%20OPEN%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeHlkdlNKZFdSR0k/view?resourcekey=0-7YJyL_4OMYBV7cCOJTBgxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeHlkdlNKZFdSR0k&resourcekey=0-7YJyL_4OMYBV7cCOJTBgxQ" width="240" alt="1979 - M201 - 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1979|12 · 201-06-001 - CKO RIL RELAY MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20CKO%20RIL%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSThIeURyaGZWVkk/view?resourcekey=0-DCfF1riNcx3aIdov_rtF_w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSThIeURyaGZWVkk&resourcekey=0-DCfF1riNcx3aIdov_rtF_w" width="240" alt="1979 - M201 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1979|12 · 201-06-001 - RELAY MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1979%20-%20M201%20-%20201-06-001%20-%20RELAY%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1.jpg`, `19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator.jpg`, `M201 - P12 - Layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -140,8 +136,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcnVTVDRySHVxbHc/view?resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcnVTVDRySHVxbHc&resourcekey=0-SA2EtrC1RBp9bGUu_zsqcQ" width="240" alt="1979 - M201 - 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER.jpg"></a><br><sub>1979|12 · 201-02-001 - DELAY STRAPPING DELAY NUMPER NUMPER · <a href="PINOUTS/1979%20-%20M201%20-%20201-02-001%20-%20DELAY%20STRAPPING%20DELAY%20NUMPER%20NUMPER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKS1VHWEh0QkFyYms/view?resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKS1VHWEh0QkFyYms&resourcekey=0-BFjGKm52jWr8bfCjnxqdCA" width="240" alt="1979 - M201 - P13 - Pin outs.jpg"></a><br><sub>1979|12 · P13 - Pin outs · <a href="PINOUTS/1979%20-%20M201%20-%20P13%20-%20Pin%20outs%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M201 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -197,8 +191,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQVNwZXQtU0hHQmc/view?resourcekey=0-DxTsb3deJhSupRM-nbhMUg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQVNwZXQtU0hHQmc&resourcekey=0-DxTsb3deJhSupRM-nbhMUg" width="240" alt="1979 - M201 - p7.jpg"></a><br><sub>1979|12 · p7</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M201 - TEST PROCEDURE M201 RELAY MODULE.jpeg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -207,7 +199,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M201 - 201-02-001 - SEC SHORT SHORT OPEN SHORT OPEN OPEN.kicad_sch](KICAD/1979%20-%20M201%20-%20201-02-001%20-%20SEC%20SHORT%20SHORT%20OPEN%20SHORT%20OPEN%20OPEN.kicad_sch)
 - [19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator.kicad_sch](KICAD/19xx%20-%20M201%20-%20Integrated%20Circuit%20Data%2074C221%20Dual%20Monostable%20Multivibrator.kicad_sch)
 - [M201.kicad_sym](KICAD/M201.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
